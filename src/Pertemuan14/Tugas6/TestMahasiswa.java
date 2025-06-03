@@ -1,4 +1,4 @@
-package Tugas6;
+package Pertemuan14.Tugas6;
 
 public class TestMahasiswa {
 
